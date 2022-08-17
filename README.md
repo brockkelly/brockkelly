@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brockkelly
 - 👀 I’m interested in Economics, Statistics, Machine Learning, and Finance
-- 🌱 I’m currently doing my Master's in Economics and I'm trying to get better at using R to supplement my learning.
+- 🌱 I’m currently doing my Master's in Economics at Queen's University in Kingston
 - 📫 How to reach me - 
 email: brockkelly96@gmail.com
 linkedin: https://www.linkedin.com/in/brock-kelly-128497160/
